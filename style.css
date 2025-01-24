@@ -29,3 +29,21 @@ body {
     width: 100%;
     cursor: pointer;
 }
+
+@media only screen and (max-width: 426px) {
+    #time {
+        font-size: 5em;
+    }
+}
+
+@media only screen and (max-width: 376px) {
+    #time {
+        font-size: 4.5em;
+    }
+}
+
+@media only screen and (max-width: 321px) {
+    #time {
+        font-size: 4em;
+    }
+}
