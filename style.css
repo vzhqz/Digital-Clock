@@ -30,7 +30,7 @@ body {
     cursor: pointer;
 }
 
-@media only screen and (max-width: 426px) {
+@media only screen and (max-width: 435px) {
     #time {
         font-size: 5em;
     }
