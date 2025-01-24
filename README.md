@@ -1,2 +1,1 @@
-# Digital-Clock
-A simple digital clock.
+<h1>https://vzhqz.github.io/Digital-Clock/</h1>
